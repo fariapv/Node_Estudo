@@ -5,7 +5,7 @@
 const nome = 'Pedro'
 
 //2° declara uma variavel, alterável
-let idade = 17
+let idade = 10
 
 idade = 19
 
